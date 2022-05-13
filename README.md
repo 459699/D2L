@@ -1,2 +1,2 @@
 # D2L 
-amazon
+amazon d2l
